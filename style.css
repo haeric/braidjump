@@ -1,0 +1,22 @@
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	text-align: center;
+	font-family: georgia, serif;
+}
+
+p {
+	font-size: 0.8em;
+	margin: 10px;
+}
+
+#game {
+	border: 1px solid #000;
+	background: url('gfx/bg/low.jpg') repeat-y 0 0;
+	margin: 20px auto 0 auto;
+	
+}
