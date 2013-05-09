@@ -1,10 +1,10 @@
 BraidJump
 =========
 
-BraidJump is merge of the beautiful art of indie-adventure game Braid, 
+BraidJump a is merge of the beautiful art of indie-adventure game Braid, 
 and the concepts of iPhone-platforming game Doodle Jump. 
 The goal is simply to get as far as you can jumping on different kinds of platforms, 
-while dodging enemies and keeping from falling down. [Try it out!](http://haeric.github.com/braidjump/)
+while dodging enemies and keeping from falling down. [Try it out!](http://haeric.github.io/braidjump/)
 
 This was originally made for a Opera's [NTNU HTML5 Challenge](http://my.opera.com/chooseopera/blog/2010/11/11/the-ntnu-html5-challenge) in 2010, and was my first js-game ever!
 
