@@ -19,5 +19,5 @@ The music is "Downstream”, by Shira Kammen, and was freely licenced for non-co
  with a Creative Commons No Commercial Share-alike licence. 
 
 ### Licence
-With the music: Creative Commons No Commercial Share-alike
+With the music: Creative Commons No Commercial Share-alike  
 If you remove the music: MIT
